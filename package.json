@@ -1,5 +1,5 @@
 {
-  "name": "angular2-go",
+  "name": "angular2-connect4",
   "version": "0.0.1",
   "scripts": {
     "postinstall": "npm run tsd",
